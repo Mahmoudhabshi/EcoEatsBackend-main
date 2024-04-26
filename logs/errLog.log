@@ -1,0 +1,18 @@
+20240423	21:38:48	349e7b84-51f5-470f-9d13-43aeffecca17	ValidationError: Products validation failed: name: Path `name` is required., price: Path `price` is required., description: Path `description` is required.	POST	/api/createProduct	undefined
+20240423	21:39:31	603a8d1d-6a92-4402-86de-7444e4ff763c	ValidationError: Products validation failed: name: Path `name` is required., price: Path `price` is required., description: Path `description` is required.	POST	/api/createProduct	undefined
+20240426	22:51:29	3750793a-1534-4542-83e3-804b527af8a0	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:51:29	a32f5257-9f55-4bd5-b21c-4ab2680fe654	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:53:09	d2eb1aa4-bec9-4d30-bd94-f72c90d943c6	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:53:10	f75c2d43-2adc-49dd-a3de-3d4f653201d7	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:54:09	1c1adb3f-9c9b-4f15-bfaf-4213d7c4d6b3	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:54:09	c96ea05f-6ffe-4801-8a53-2e8d81135173	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:55:54	c785482e-00cc-4d72-905a-ba1bdbf6e6cd	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:55:54	60d571a7-fa8e-42db-b685-79e904d67caf	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:56:16	306f6dce-8b9e-45b4-ae5b-2ab39299567e	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	22:56:16	f82470df-f243-463a-b294-6df708a1906c	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	23:00:48	ac8413d8-ab03-4595-8763-f216f8ad4222	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	23:00:48	c87a45ba-b70a-4383-9c70-f25dde7dd7d1	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	23:01:21	11347cd8-ae38-4a4a-a2a6-501f422dc1ba	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	23:01:21	c924b04b-17ad-45be-ae7b-38d9036379aa	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	23:03:41	26558571-374f-47fd-be1a-fa138359a917	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
+20240426	23:03:42	79b93044-5b3f-48eb-81e2-2c2dc0426ed4	ReferenceError: products is not defined	GET	/api/getAllProducts	undefined
